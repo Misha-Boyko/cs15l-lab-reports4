@@ -1,4 +1,4 @@
-#Lab 4
+# Lab 4
 
 ## The steps I took to edit the file:
 The first step I took was to ssh into the lab computer: 
