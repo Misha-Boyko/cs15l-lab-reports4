@@ -34,7 +34,9 @@ e <enter>
 r 2 <enter>
 ```
 The terminal opens on the first line so by typing 42 <enter> we are sent to the 43rd line which is the line with the error in it. Then I type e which brings me to the end of the current word which was index1. The r 2 command replaces the "1" in index1 with a 2. The r does the replace and the "2" is what we replace the current character highlighted with.  
+ 
 ![Image](VimText.png)
+ 
 After correcting the error we type :wq <enter> to save our changes.
 ```
 :wq <enter>
