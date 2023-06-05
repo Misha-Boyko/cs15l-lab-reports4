@@ -43,6 +43,7 @@ To show that these changes fixed the error we run the tests again:
 ```
 bash te <tab> <enter>
 ```
+The "te" autocompletes to test.sh. The bash test.sh runs all of the tests again to show that the tests pass. 
 ![Image](TestPass.png)
 Finally now that the changes have been fixed, we add, commit, and push the changes back to our repository:
 ```
